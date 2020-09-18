@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<translations>
+  <translation timestamp="9/18/2020 4:07:08 AM" id="1">
+    <from>asdas</from>
+    <to>asdas</to>
+  </translation>
+  <translation timestamp="9/18/2020 4:08:24 AM" id="2">
+    <from>SnippetCode</from>
+    <to>SnippetCode1</to>
+  </translation>
+  <translation timestamp="9/18/2020 4:20:16 AM" id="0">
+    <from>sacuvaj u xml file</from>
+    <to>save in xml file</to>
+  </translation>
+  <translation timestamp="9/18/2020 4:21:07 AM" id="0">
+    <from>sacuvaj u xml</from>
+    <to>save to xml</to>
+  </translation>
+  <translation timestamp="9/18/2020 9:19:51 AM" id="0">
+    <from>drvo</from>
+    <to>Wood</to>
+  </translation>
+  <translation timestamp="9/18/2020 9:20:03 AM" id="0">
+    <from>drvo je zeleno</from>
+    <to>wood is green</to>
+  </translation>
+  <translation timestamp="9/18/2020 9:20:54 AM" id="0">
+    <from>stolica</from>
+    <to>Capital</to>
+  </translation>
+  <translation timestamp="9/18/2020 9:20:54 AM" id="0">
+    <from>stolica</from>
+    <to>Capital</to>
+  </translation>
+  <translation timestamp="9/18/2020 9:23:27 AM" id="0">
+    <from>kuca</from>
+    <to>House</to>
+  </translation>
+  <translation timestamp="9/18/2020 9:23:33 AM" id="0">
+    <from>kuca ima krov</from>
+    <to>the house has a roof</to>
+  </translation>
+  <translation timestamp="9/18/2020 9:24:01 AM" id="0">
+    <from>banana</from>
+    <to>banana</to>
+  </translation>
+  <translation timestamp="9/18/2020 9:26:02 AM" id="0">
+    <from>sunce</from>
+    <to>Sun</to>
+  </translation>
+  <translation timestamp="9/18/2020 9:26:09 AM" id="0">
+    <from>sunce sija napolju</from>
+    <to>The sun is shining outside</to>
+  </translation>
+</translations>
