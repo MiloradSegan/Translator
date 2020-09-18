@@ -1,0 +1,48 @@
+
+  .main{
+    border: 4px solid rgba(158, 9, 9, 0.932);
+    height: 100vh;
+  }
+  .redRectangle{
+    background-color: rgba(158, 9, 9, 0.932);
+    height: 200px;
+  }
+  .formClass{
+    margin: 25px 50px;
+    background-color: rgba(229, 239, 241, 0.959);
+    border:1px solid rgba(157, 230, 243, 0.959);
+    height: 200px;
+    
+  }
+  .inputText{
+   margin-top: 100px;
+   margin-left: 25px;
+   margin-right: 25px;
+   width: 95%;
+
+   padding-bottom: 50px;
+  }
+ .btn{
+  position: absolute;
+  top:90%;
+  left:86%;
+  padding: 10px 20px;
+  border-radius: 5px;
+  border-style: hidden;
+  color:white;
+  background-color: goldenrod;
+  
+ }
+.translatedText{
+  margin-left: 50px;
+}
+.warning{
+  margin-left: 50px;
+  font-size: 20px;
+  color:red;
+}
+.error{
+  background-color: indianred;
+  color: white;
+  font-size: 10px;
+}

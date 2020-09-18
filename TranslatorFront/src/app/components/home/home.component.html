@@ -1,0 +1,32 @@
+<div class="main">
+  <div class="redRectangle"></div>
+  <form
+    [formGroup]="registerForm"
+    class="formClass"
+    (submit)="addTranslation()"
+  >
+    <input
+      (ngModelChange)="reset()"
+      class="inputText"
+      type="text"
+      formControlName="inputText"
+    />
+
+    <button class="btn" type="submit">OK - continue</button>
+  </form>
+  <div
+    class="warning"
+    *ngIf="
+      registerForm.get('inputText').errors &&
+      registerForm.get('inputText').touched
+    "
+  >
+    Input must contain between two and fifty characters, cant contain numbers
+    and cant be blank
+  </div>
+  <h3 class="translatedText">Translated text: {{ translation.outputText }}</h3>
+  <div class="error" *ngIf="error">
+    <h2>An Error Occurred!</h2>
+    <p>{{ error }}</p>
+  </div>
+</div>

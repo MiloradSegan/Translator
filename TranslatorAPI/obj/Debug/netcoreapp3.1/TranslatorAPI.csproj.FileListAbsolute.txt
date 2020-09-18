@@ -1,0 +1,134 @@
+C:\Users\ENVY\App\TranslatorAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ENVY\App\TranslatorAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ENVY\App\TranslatorAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\ENVY\App\TranslatorAPI\bin\Debug\netcoreapp3.1\TranslatorAPI.exe
+C:\Users\ENVY\App\TranslatorAPI\bin\Debug\netcoreapp3.1\TranslatorAPI.deps.json
+C:\Users\ENVY\App\TranslatorAPI\bin\Debug\netcoreapp3.1\TranslatorAPI.runtimeconfig.json
+C:\Users\ENVY\App\TranslatorAPI\bin\Debug\netcoreapp3.1\TranslatorAPI.runtimeconfig.dev.json
+C:\Users\ENVY\App\TranslatorAPI\bin\Debug\netcoreapp3.1\TranslatorAPI.dll
+C:\Users\ENVY\App\TranslatorAPI\bin\Debug\netcoreapp3.1\TranslatorAPI.pdb
+C:\Users\ENVY\App\TranslatorAPI\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\ENVY\App\TranslatorAPI\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\ENVY\App\TranslatorAPI\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\ENVY\App\TranslatorAPI\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\ENVY\App\TranslatorAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ENVY\App\TranslatorAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\ENVY\App\TranslatorAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ENVY\App\TranslatorAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ENVY\App\TranslatorAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ENVY\App\TranslatorAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ENVY\App\TranslatorAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ENVY\App\TranslatorAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ENVY\App\TranslatorAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ENVY\App\TranslatorAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ENVY\App\TranslatorAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ENVY\App\TranslatorAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\ENVY\App\TranslatorAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ENVY\App\TranslatorAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\ENVY\App\TranslatorAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\ENVY\App\TranslatorAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\ENVY\App\TranslatorAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ENVY\App\TranslatorAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\ENVY\App\TranslatorAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ENVY\App\TranslatorAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ENVY\App\TranslatorAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ENVY\App\TranslatorAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ENVY\App\TranslatorAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\ENVY\App\TranslatorAPI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\ENVY\App\TranslatorAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\ENVY\App\TranslatorAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ENVY\App\TranslatorAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ENVY\App\TranslatorAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\ENVY\App\TranslatorAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ENVY\App\TranslatorAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ENVY\App\TranslatorAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ENVY\App\TranslatorAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ENVY\App\TranslatorAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ENVY\App\TranslatorAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ENVY\App\TranslatorAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ENVY\App\TranslatorAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ENVY\App\TranslatorAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ENVY\App\TranslatorAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ENVY\App\TranslatorAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ENVY\App\TranslatorAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ENVY\App\TranslatorAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ENVY\App\TranslatorAPI\obj\Debug\netcoreapp3.1\TranslatorAPI.AssemblyInfoInputs.cache
+C:\Users\ENVY\App\TranslatorAPI\obj\Debug\netcoreapp3.1\TranslatorAPI.AssemblyInfo.cs
+C:\Users\ENVY\App\TranslatorAPI\obj\Debug\netcoreapp3.1\TranslatorAPI.csproj.CoreCompileInputs.cache
+C:\Users\ENVY\App\TranslatorAPI\obj\Debug\netcoreapp3.1\TranslatorAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ENVY\App\TranslatorAPI\obj\Debug\netcoreapp3.1\TranslatorAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ENVY\App\TranslatorAPI\obj\Debug\netcoreapp3.1\TranslatorAPI.RazorTargetAssemblyInfo.cache
+C:\Users\ENVY\App\TranslatorAPI\obj\Debug\netcoreapp3.1\TranslatorAPI.csproj.CopyComplete
+C:\Users\ENVY\App\TranslatorAPI\obj\Debug\netcoreapp3.1\staticwebassets\TranslatorAPI.StaticWebAssets.Manifest.cache
+C:\Users\ENVY\App\TranslatorAPI\obj\Debug\netcoreapp3.1\staticwebassets\TranslatorAPI.StaticWebAssets.xml
+C:\Users\ENVY\App\TranslatorAPI\obj\Debug\netcoreapp3.1\TranslatorAPI.dll
+C:\Users\ENVY\App\TranslatorAPI\obj\Debug\netcoreapp3.1\TranslatorAPI.pdb
+C:\Users\ENVY\App\TranslatorAPI\obj\Debug\netcoreapp3.1\TranslatorAPI.genruntimeconfig.cache
+C:\Users\ENVY\App\TranslatorAPI\obj\Debug\netcoreapp3.1\TranslatorAPI.csprojAssemblyReference.cache
+C:\Users\ENVY\Desktop\New folder (4)\TranslatorAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ENVY\Desktop\New folder (4)\TranslatorAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ENVY\Desktop\New folder (4)\TranslatorAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\ENVY\Desktop\New folder (4)\TranslatorAPI\bin\Debug\netcoreapp3.1\TranslatorAPI.exe
+C:\Users\ENVY\Desktop\New folder (4)\TranslatorAPI\bin\Debug\netcoreapp3.1\TranslatorAPI.deps.json
+C:\Users\ENVY\Desktop\New folder (4)\TranslatorAPI\bin\Debug\netcoreapp3.1\TranslatorAPI.runtimeconfig.json
+C:\Users\ENVY\Desktop\New folder (4)\TranslatorAPI\bin\Debug\netcoreapp3.1\TranslatorAPI.runtimeconfig.dev.json
+C:\Users\ENVY\Desktop\New folder (4)\TranslatorAPI\bin\Debug\netcoreapp3.1\TranslatorAPI.dll
+C:\Users\ENVY\Desktop\New folder (4)\TranslatorAPI\bin\Debug\netcoreapp3.1\TranslatorAPI.pdb
+C:\Users\ENVY\Desktop\New folder (4)\TranslatorAPI\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\ENVY\Desktop\New folder (4)\TranslatorAPI\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\ENVY\Desktop\New folder (4)\TranslatorAPI\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\ENVY\Desktop\New folder (4)\TranslatorAPI\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\ENVY\Desktop\New folder (4)\TranslatorAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ENVY\Desktop\New folder (4)\TranslatorAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\ENVY\Desktop\New folder (4)\TranslatorAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ENVY\Desktop\New folder (4)\TranslatorAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ENVY\Desktop\New folder (4)\TranslatorAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ENVY\Desktop\New folder (4)\TranslatorAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ENVY\Desktop\New folder (4)\TranslatorAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ENVY\Desktop\New folder (4)\TranslatorAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ENVY\Desktop\New folder (4)\TranslatorAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ENVY\Desktop\New folder (4)\TranslatorAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ENVY\Desktop\New folder (4)\TranslatorAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ENVY\Desktop\New folder (4)\TranslatorAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\ENVY\Desktop\New folder (4)\TranslatorAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ENVY\Desktop\New folder (4)\TranslatorAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\ENVY\Desktop\New folder (4)\TranslatorAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\ENVY\Desktop\New folder (4)\TranslatorAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\ENVY\Desktop\New folder (4)\TranslatorAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ENVY\Desktop\New folder (4)\TranslatorAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\ENVY\Desktop\New folder (4)\TranslatorAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ENVY\Desktop\New folder (4)\TranslatorAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ENVY\Desktop\New folder (4)\TranslatorAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ENVY\Desktop\New folder (4)\TranslatorAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ENVY\Desktop\New folder (4)\TranslatorAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\ENVY\Desktop\New folder (4)\TranslatorAPI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\ENVY\Desktop\New folder (4)\TranslatorAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\ENVY\Desktop\New folder (4)\TranslatorAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ENVY\Desktop\New folder (4)\TranslatorAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ENVY\Desktop\New folder (4)\TranslatorAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\ENVY\Desktop\New folder (4)\TranslatorAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ENVY\Desktop\New folder (4)\TranslatorAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ENVY\Desktop\New folder (4)\TranslatorAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ENVY\Desktop\New folder (4)\TranslatorAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ENVY\Desktop\New folder (4)\TranslatorAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ENVY\Desktop\New folder (4)\TranslatorAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ENVY\Desktop\New folder (4)\TranslatorAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ENVY\Desktop\New folder (4)\TranslatorAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ENVY\Desktop\New folder (4)\TranslatorAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ENVY\Desktop\New folder (4)\TranslatorAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ENVY\Desktop\New folder (4)\TranslatorAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ENVY\Desktop\New folder (4)\TranslatorAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ENVY\Desktop\New folder (4)\TranslatorAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ENVY\Desktop\New folder (4)\TranslatorAPI\obj\Debug\netcoreapp3.1\TranslatorAPI.csprojAssemblyReference.cache
+C:\Users\ENVY\Desktop\New folder (4)\TranslatorAPI\obj\Debug\netcoreapp3.1\TranslatorAPI.AssemblyInfoInputs.cache
+C:\Users\ENVY\Desktop\New folder (4)\TranslatorAPI\obj\Debug\netcoreapp3.1\TranslatorAPI.AssemblyInfo.cs
+C:\Users\ENVY\Desktop\New folder (4)\TranslatorAPI\obj\Debug\netcoreapp3.1\TranslatorAPI.csproj.CoreCompileInputs.cache
+C:\Users\ENVY\Desktop\New folder (4)\TranslatorAPI\obj\Debug\netcoreapp3.1\TranslatorAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ENVY\Desktop\New folder (4)\TranslatorAPI\obj\Debug\netcoreapp3.1\TranslatorAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ENVY\Desktop\New folder (4)\TranslatorAPI\obj\Debug\netcoreapp3.1\TranslatorAPI.RazorTargetAssemblyInfo.cache
+C:\Users\ENVY\Desktop\New folder (4)\TranslatorAPI\obj\Debug\netcoreapp3.1\TranslatorAPI.csproj.CopyComplete
+C:\Users\ENVY\Desktop\New folder (4)\TranslatorAPI\obj\Debug\netcoreapp3.1\staticwebassets\TranslatorAPI.StaticWebAssets.Manifest.cache
+C:\Users\ENVY\Desktop\New folder (4)\TranslatorAPI\obj\Debug\netcoreapp3.1\staticwebassets\TranslatorAPI.StaticWebAssets.xml
+C:\Users\ENVY\Desktop\New folder (4)\TranslatorAPI\obj\Debug\netcoreapp3.1\TranslatorAPI.dll
+C:\Users\ENVY\Desktop\New folder (4)\TranslatorAPI\obj\Debug\netcoreapp3.1\TranslatorAPI.pdb
+C:\Users\ENVY\Desktop\New folder (4)\TranslatorAPI\obj\Debug\netcoreapp3.1\TranslatorAPI.genruntimeconfig.cache
